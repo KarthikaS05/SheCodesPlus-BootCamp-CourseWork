@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Gruppo&display=swap");
+body {
+  font-family: sans-serif;
+  padding: 0 20px;
+  background-image: linear-gradient(to top, #fff1ebb4 0%, #ace1f99c 100%);
+}
+
+img {
+  max-width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+
+h1,
+h2,
+h3 {
+  color: #231d3c;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 900;
+  margin: 0;
+  font-size: 36px;
+  line-height: 48px;
+  font-family: "Gruppo", cursive;
+  color: #da9ff9;
+}
+
+p {
+  color: #52057b;
+}
+
+.chal2__icons i:nth-of-type(1) {
+  color: red;
+  font-size: 25px;
+}
+.chal2__icons i:nth-of-type(2) {
+  color: blue;
+  font-size: 35px;
+}
+.chal2__icons i:nth-of-type(3) {
+  color: purple;
+  font-size: 60px;
+  font-weight: 700;
+}
